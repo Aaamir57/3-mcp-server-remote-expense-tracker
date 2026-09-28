@@ -1,0 +1,38 @@
+{
+  "food": [
+    "groceries",
+    "fruits_vegetables",
+    "dairy_bakery",
+    "dining_out",
+    "coffee_tea",
+    "snacks",
+    "delivery_fees",
+    "other"
+  ],
+  "transport": [
+    "fuel",
+    "public_transport",
+    "cab_taxi",
+    "maintenance"
+  ],
+  "housing": [
+    "rent",
+    "maintenance",
+    "supplies"
+  ],
+  "utilities": [
+    "electricity",
+    "water",
+    "gas",
+    "internet"
+  ],
+  "health": [
+    "medicines",
+    "doctor_fee"
+  ],
+  "education": [
+    "books",
+    "fees",
+    "courses"
+  ]
+}
